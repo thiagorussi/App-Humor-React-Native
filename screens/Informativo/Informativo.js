@@ -13,6 +13,8 @@ export default function MsgImportante() {
 
     const [stress, setStress] = useState(81);
 
+
+
     return (
         <>
             <ScrollView>
