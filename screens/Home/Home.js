@@ -1,5 +1,5 @@
 import { Text, View, SafeAreaView, TouchableOpacity } from 'react-native';
-import React, { useState } from "react"; // importando o useState para poder usar o estado no react native
+import React, { useState } from "react";
 import Header from '../../Components/Header/Header';
 
 import { useContext } from 'react';
